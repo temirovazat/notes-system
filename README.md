@@ -41,8 +41,9 @@ This is a service diagram. These are services planned to be implemented
 * [ ] Category Service
 * [ ] API Service
 * [ ] Search Service
-* [ ] File Service
+* [x] File Service
 * [x] User Service
+* [x] Tag Service
 * [ ] Web Service
 * [ ] Notification Service
 * [ ] User Profile Service
