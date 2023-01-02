@@ -1,0 +1,15 @@
+---
+
+is_debug: true
+listen:
+  type: port
+  bind_ip: 0.0.0.0
+  port: 10004
+mongodb:
+  host: ns-ts-mongodb
+  port: 27017
+  username: nsuser
+  password: nsuser
+  auth_db: notes-system
+  database: notes-system
+  collection: tags
