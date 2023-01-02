@@ -17,4 +17,4 @@ services:
     image: theartofdevel/notes_system.user_service:latest
     container_name: ns-user_service
     ports:
-      - 10003:10003
+      - 10005:10005
