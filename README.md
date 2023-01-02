@@ -42,7 +42,7 @@ This is a service diagram. These are services planned to be implemented
 * [ ] API Service
 * [ ] Search Service
 * [ ] File Service
-* [ ] User Service
+* [x] User Service
 * [ ] Web Service
 * [ ] Notification Service
 * [ ] User Profile Service
