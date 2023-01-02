@@ -37,7 +37,7 @@ This is a service diagram. These are services planned to be implemented
 | ![Golang](assets/icons8-mongodb-48.png#gh-light-mode-only)![Golang](assets/icons8-mongodb-48.png#gh-dark-mode-only) |  |  |  |  | |  |
 
 ### Implementation
-* [ ] Note Service
+* [x] Note Service
 * [ ] Category Service
 * [ ] API Service
 * [ ] Search Service
