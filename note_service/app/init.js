@@ -2,12 +2,12 @@
 db.auth("mongoadm", "mongoadm")
 
 // user
-userdb = db.getSiblingDB("notes_system")
+userdb = db.getSiblingDB("notes-system")
 userdb.createUser({
   "user": "nsuser",
   "pwd" : "nsuser",
   "roles": [
-    { "role" : "readWrite", "db" : "notes_system"}
+    { "role" : "readWrite", "db" : "notes-system"}
   ],
   "mechanisms": [ "SCRAM-SHA-1" ],
   "passwordDigestor": "client"

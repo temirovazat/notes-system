@@ -10,6 +10,6 @@ mongodb:
   port: 27017
   username: nsuser
   password: nsuser
-  auth_db: notes_system
-  database: notes_system
+  auth_db: notes-system
+  database: notes-system
   collection: users
