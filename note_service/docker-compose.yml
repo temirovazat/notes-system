@@ -2,7 +2,7 @@ version: "3.9"
 
 services:
   mongodb:
-    image: 'mongo:5.0'
+    image: 'mongo:6.0'
     container_name: 'ns-ns-mongodb'
     restart: always
     environment:
