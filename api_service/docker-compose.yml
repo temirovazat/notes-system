@@ -1,0 +1,9 @@
+version: "3.9"
+
+services:
+  api_service:
+    restart: always
+    image: temirovazat/notes-system.api_service:latest
+    container_name: ns-api_service
+    ports:
+      - 10000:10000
