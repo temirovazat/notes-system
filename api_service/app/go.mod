@@ -3,7 +3,7 @@ module github.com/temirovazat/notes-system/api_service
 go 1.19
 
 require (
-	github.com/coocood/freecache v1.1.1
+	github.com/coocood/freecache v1.2.3
 	github.com/cristalhq/jwt/v4 v4.0.2
 	github.com/fatih/structs v1.1.0
 	github.com/google/uuid v1.2.0
