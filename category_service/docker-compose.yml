@@ -1,0 +1,24 @@
+version: "3.9"
+
+services:
+  neo4j:
+    restart: always
+    image: neo4j:4.2.3
+    container_name: ns-cs-neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    volumes:  
+      - ./export/neo4j/data:/data
+      - ./export/neo4j/var/lib/neo4j/conf:/var/lib/neo4j/conf
+      - ./export/neo4j/logs:/logs
+      - ./export/neo4j/var/lib/neo4j/import:/var/lib/neo4j/import
+      - ./export/neo4j/plugins:/plugins
+    environment:
+      - NEO4J_AUTH=neo4j/test
+  category_service:
+    restart: always
+    image: temirovazat/notes-system.category_service:latest
+    container_name: ns-category_service
+    ports:
+      - 10001:10001
