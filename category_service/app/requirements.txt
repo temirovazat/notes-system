@@ -57,7 +57,7 @@ six
 typed-ast==1.4.0
 typing-extensions==3.7.4.3
 typing-inspect==0.6.0
-urllib3==1.26.5
+urllib3==1.26.13
 wcwidth==0.1.7
 webargs==7.0.1
 websocket-client==0.58.0
