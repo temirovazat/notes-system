@@ -55,8 +55,8 @@ requests==2.28.1
 schema==0.7.5
 six
 typed-ast==1.4.0
-typing-extensions==3.10.0.2
-typing-inspect==0.6.0
+typing-extensions==3.7.4.3
+typing-inspect==0.8.0
 urllib3==1.26.13
 wcwidth==0.1.7
 webargs==7.0.1
