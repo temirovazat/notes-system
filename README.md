@@ -38,17 +38,17 @@ This is a service diagram. These are services planned to be implemented
 
 ### Implementation
 * [x] Note Service
-* [ ] Category Service
+* [x] Category Service
 * [x] API Service
 * [ ] Search Service
 * [x] File Service
 * [x] User Service
 * [x] Tag Service
-* [ ] Web Service
+* [x] Web Service
 * [ ] Notification Service
-* [ ] User Profile Service
-* [ ] User Activity Service
-* [ ] User Activity Service
+* [x] User Profile Service
+* [x] User Activity Service
+* [x] User Activity Service
 
 ## 🚀 Installation
 
