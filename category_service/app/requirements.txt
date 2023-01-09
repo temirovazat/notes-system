@@ -61,6 +61,6 @@ urllib3==1.26.13
 wcwidth==0.2.5
 webargs==7.0.1
 websocket-client==0.59.0
-Werkzeug==0.16.1
+Werkzeug==2.2.2
 wrapt==1.14.1
 zipp==0.5.1
