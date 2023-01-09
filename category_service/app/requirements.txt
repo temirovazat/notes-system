@@ -62,5 +62,5 @@ wcwidth==0.2.5
 webargs==7.0.1
 websocket-client==0.59.0
 Werkzeug==0.16.1
-wrapt==1.14.1
-zipp==0.5.1
+wrapt==1.11.2
+zipp==0.6.0
