@@ -19,7 +19,7 @@ Flask-Cors==3.0.10
 Flask-Injector==0.14.0
 Flask-RESTful==0.3.9
 Flask-SQLAlchemy==3.0.2
-idna==2.10
+idna==3.4
 importlib-metadata==0.23
 injector==0.20.1
 isort==4.3.21
