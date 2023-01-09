@@ -59,3 +59,6 @@ This is a service diagram. These are services planned to be implemented
 * [Golang](https://golang.org/dl/) - Go is an open source programming language that makes it easy to build simple, reliable, and efficient software.
 * [NodeJS](https://nodejs.org/en/download/) - Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.
 * [Yarn](https://classic.yarnpkg.com/en/docs/install/#windows-stable) - Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
+
+### Project Status
+![Alt](https://repobeats.axiom.co/api/embed/36751caa1291739d4c3a97e56919f6ce20c75d4b.svg "Repobeats analytics image")
