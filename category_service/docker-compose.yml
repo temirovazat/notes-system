@@ -3,7 +3,7 @@ version: "3.9"
 services:
   neo4j:
     restart: always
-    image: neo4j:4.2.3
+    image: neo4j:4.4.16
     container_name: ns-cs-neo4j
     ports:
       - "7474:7474"
