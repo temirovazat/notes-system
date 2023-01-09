@@ -29,7 +29,7 @@ lazy-object-proxy==1.4.1
 loguru==0.6.0
 MarkupSafe==1.1.1
 marshmallow==3.0.0
-marshmallow-dataclass==8.5.10
+marshmallow-dataclass==8.5.11
 marshmallow-enum==1.5.1
 mccabe==0.6.1
 monotonic==1.5
