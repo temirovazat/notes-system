@@ -39,7 +39,7 @@ neotime==1.7.4
 packaging==23.0
 pansi==2020.7.3
 pluggy==1.0.0
-prompt-toolkit==3.0.36
+prompt-toolkit==3.0.37
 py==1.10.0
 py2neo==2021.0.1
 pycodestyle==2.5.0
