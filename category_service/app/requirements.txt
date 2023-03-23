@@ -41,7 +41,7 @@ pansi==2020.7.3
 pluggy==1.0.0
 prompt-toolkit==3.0.37
 py==1.11.0
-py2neo==2021.0.1
+py2neo==2021.2.3
 pycodestyle==2.5.0
 pycparser==2.20
 pyflakes==3.0.1
