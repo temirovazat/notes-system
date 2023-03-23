@@ -40,9 +40,9 @@ packaging==23.0
 pansi==2020.7.3
 pluggy==1.0.0
 prompt-toolkit==3.0.37
-py==1.11.0
-py2neo==2021.2.3
-pycodestyle==2.5.0
+py==1.10.0
+py2neo==2021.0.1
+pycodestyle==2.10.0
 pycparser==2.20
 pyflakes==3.0.1
 Pygments==2.14.0
