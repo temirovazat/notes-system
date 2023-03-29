@@ -1,5 +1,5 @@
 aniso8601==9.0.1
-apispec==6.0.2
+apispec==6.3.0
 astroid==2.13.2
 atomicwrites==1.4.1
 attrs==19.3.0
