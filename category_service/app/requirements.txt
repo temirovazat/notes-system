@@ -45,7 +45,7 @@ py2neo==2021.0.1
 pycodestyle==2.5.0
 pycparser==2.21
 pyflakes==3.0.1
-Pygments==2.14.0
+Pygments==2.15.0
 pylint==2.17.2
 pyparsing==3.0.9
 python-dateutil==2.8.2
