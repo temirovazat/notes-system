@@ -7,7 +7,7 @@ require (
 	github.com/ilyakaznacheev/cleanenv v1.4.2
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/minio/minio-go/v7 v7.0.52
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.3
 	golang.org/x/text v0.9.0
 	pkg.re/essentialkaos/translit.v2 v2.0.1+incompatible // indirect
 )
