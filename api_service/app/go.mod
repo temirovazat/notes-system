@@ -10,5 +10,5 @@ require (
 	github.com/ilyakaznacheev/cleanenv v1.4.2
 	github.com/julienschmidt/httprouter v1.3.0
 	github.com/sirupsen/logrus v1.9.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 )
