@@ -15,7 +15,7 @@ docker==6.1.2
 english==2020.7.0
 Flask==2.3.2
 flask-apispec==0.11.4
-Flask-Cors==4.0.1
+Flask-Cors==5.0.0
 Flask-Injector==0.14.0
 Flask-RESTful==0.3.10
 Flask-SQLAlchemy==3.0.3
